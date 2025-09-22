@@ -38,7 +38,7 @@ flutter:
         - .env.development
         - .env.staging
         - .env.production
-        - assets
+        - assets/images/
 
 flutter_gen:
     output: lib/gen/
